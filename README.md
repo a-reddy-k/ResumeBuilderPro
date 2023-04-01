@@ -8,8 +8,13 @@ Resume writing made easy!
 A recruiter-tested CV maker tool
 
 Developed by Team Smart Squad
+
 Akshay Reddy K
+
 B Sai Charan
+
 Likhitha K
+
 Chandhana C
+
 Goutham Raj K
